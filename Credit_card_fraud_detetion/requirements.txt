@@ -5,3 +5,4 @@ numpy
 gunicorn
 matplotlib
 flask
+requests
